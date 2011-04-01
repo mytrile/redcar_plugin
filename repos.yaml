@@ -1,0 +1,46 @@
+repos:
+  go-to-github:    
+    url: https://github.com/jablkopp/go-to-github.git
+    description: Show current file in github
+  github_viewer:    
+    url: https://github.com/aokai/redcar_github_viewer.git
+    description: Small Plugin that allows browsing Github-Repositories
+  rsense:    
+    url: https://github.com/Samsinite/rsense.git
+    description: Highly precise code completion for Ruby
+  gccsense:
+    url: https://github.com/Samsinite/gccsense.git
+    description: Highly precise code completion for C/C++
+  redcar-debug:
+    url: https://github.com/timfel/redcar-debug.git
+    description: General debugger interface to allow integration of remotely attaching commandline-driven debuggers
+  redcar-pastie:
+    url: https://github.com/antono/redcar-pastie.git
+    description: Support for Pastie, Gist and other patebins
+  redcar-help:
+    url: https://github.com/wcherry/redcar-help.git
+    description: Help system for Redcar
+  touchy: 
+    url: https://github.com/mscharley/touchy.git
+    description: Adds a "Touch file" option to the project plugin's context menu.
+  code-package-view:
+    url: https://github.com/kattrali/redcar-code-package-view.git
+    description: View Directories in Redcar as grouped as packages
+  save-all-on-lose-focus:
+    url: https://github.com/rdp/redcar-save-all-on-lose-focus.git
+    description: Save all tabs when you "alt+tab" away form redcar
+  close-tabs:
+    url: https://github.com/crnixon/redcar-close-tabs.git
+    description: Close all tabs or close all tabs except the current one within a project
+  associated_file:
+    url: https://github.com/coffeeaddict/redcar_associated_file.git
+    description: Open an associated file (view, controller, test, model, fixture) with a keystroke
+  storytracker:
+    url: https://github.com/kattrali/redcar-storytracker.git
+    description: Basic Pivotal Tracker integration for the redcar text editor
+  hotswap: 
+    url: https://github.com/kattrali/redcar-hotswap.git
+    description: Opens a context menu for opening a related file or running arbitrary Ruby commands 
+  vimly:
+    url: https://github.com/kattrali/redcar-vimly.git
+    description: Some vim-like commands for the Redcar Editor
