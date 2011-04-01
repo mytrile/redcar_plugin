@@ -6,7 +6,7 @@ Redcar plugin manager is simple command-line utility to help you install,update 
 Installation
 ------------
 
-Just install the [gem](http://rubygems.com/redcar_plugin). Depends on [thor](https://github.com/wycats/thor).
+Just install the [gem](https://rubygems.org/gems/redcar_plugin). Depends on [thor](https://github.com/wycats/thor).
 > $ [sudo] gem install redcar_plugin
 
 Usage
