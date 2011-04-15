@@ -67,7 +67,7 @@ class RedcarPlugin < Thor
   
   def clone_repo(name,url)
     puts "Plugin url: #{url}"    
-    command = "git clone #{url} #{@plugins_dir}/#{name}"    
+    command = "git clone #{url} #{@plugins_dir}/#{name} && cd #{@plugins_dir}/#{name} && git submodule update --init"
     puts "Plugin #{name} successfully installed" if system(command)
   end  
 end
