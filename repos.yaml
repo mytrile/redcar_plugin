@@ -20,6 +20,9 @@ repos:
   redcar-help:
     url: https://github.com/wcherry/redcar-help.git
     description: Help system for Redcar
+  redcar-markup-preview:
+    url: https://github.com/orangemug/redcar_markup_preview
+    description: Markup preview generator for Redcar
   touchy: 
     url: https://github.com/mscharley/touchy.git
     description: Adds a "Touch file" option to the project plugin's context menu.
