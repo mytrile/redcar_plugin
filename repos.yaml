@@ -47,3 +47,6 @@ repos:
   vimly:
     url: https://github.com/kattrali/redcar-vimly.git
     description: Some vim-like commands for the Redcar Editor
+  redcar-grep:
+     url: https://github.com/superchris/redcar-grep.git
+     description: A stupid simple grep plugin for redcar
