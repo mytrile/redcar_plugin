@@ -7,6 +7,7 @@ Installation
 ------------
 
 Just install the [gem](https://rubygems.org/gems/redcar_plugin). Depends on [thor](https://github.com/wycats/thor).
+
 > $ [sudo] gem install redcar_plugin
 
 Usage
